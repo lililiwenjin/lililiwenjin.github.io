@@ -9,7 +9,7 @@ menu:
   分类: /categories/ || fas fa-folder-open
   标签: /tags/ || fas fa-tags
   关于: /about/ || fas fa-user
-  生活拾遗: https://lililiwenjin.github.io/life-journal/ || fas fa-camera
+  生活小记: https://lililiwenjin.github.io/life-journal/ || fas fa-camera
 index_img: false
 default_top_img: false
 post_default_top_img: false
